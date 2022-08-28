@@ -1,0 +1,11 @@
+{"email": "your email here",
+"code_email": "your password here",
+"sid": "twilio sid",
+"author_token": "author toker twilio",
+"twilio_nb" : "yout twilio number (if you want to sens messages)",
+"links": {
+   "whatsapp": "whatsapp path",
+   "teams": "teams path",
+   "discord": "discord path",
+   "setup": ["path 1", "path 2"]
+}}
