@@ -14,6 +14,8 @@ On retrouve:
 téléchargez l'entièreté du projet git et exécuter le fichier **main.py** (vérifier le fichier requirements.txt)
 remplissez le fichier de configuration **datas.json**
 
+Sentez vous libre d'ajouter des musiques dans le fichier *music*
+
 ## Changer la base de donnée
 
 Dans le fichier **intents.json** vous pouvez ajouter des phrases sous la forme:
